@@ -6,9 +6,9 @@
 
 | **Field**           | **Details**                                                         |
 | ------------------- | ------------------------------------------------------------------- |
-| **Name**            | Tanmay Agarwal                                                      |
-| **PRN**             | 25070123158                                                         |
-| **Branch / Batch**  | EnTC A3                                                             |
+| **Name**            | GayatriBhosale                                                      |
+| **PRN**             | 25070123033                                                         |
+| **Branch / Batch**  | EnTC A2                                                             |
 | **Experiment No.**  | 18                                                                  |
 | **Subject**         | Exploratory Data Analysis (EDA)                                     |
 | **Date**            | 10 / 04 / 2026                                                      |
